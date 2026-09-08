@@ -1,0 +1,99 @@
+---
+day_id: day-01
+day_number: 1
+date: 2027-04-23
+version: 1
+revision: 4
+status: approved
+updated_at: 2026-09-07T07:28:46.328Z
+approved_at: 2026-09-07T07:28:46.328Z
+approved_revision: 4
+supersedes: null
+affected_days: []
+---
+
+# 第 1 天·2027-04-23
+
+## Codex proposal
+
+Day 1 維持親子低壓力抵達日與原核准交通骨架，餐飲改依 Stage 4 v2 每餐雙選：早餐以各家庭出門前可攜餐為主、桃園機場簡餐為備；午餐以 Club Med 主餐廳為主、抵達延誤時改 14:00–15:30 輕食；晚餐以 Club Med 主餐廳早段為主、錯過時改 Tingara 點心或已確認可取得的村內簡餐。同一餐只採一案且不重複計價，抵達日仍不進市區追餐廳。
+
+## User feedback
+
+—
+
+## Discussion and revisions
+
+- 2026-09-07T01:42:55.943Z | assistant | proposal | r1: Day 1 採親子低壓力抵達日：05:00 桃園集合，依現行相近直飛班次骨架約 08:35 抵達石垣；完成入境與行李後，以 Club Med 六人接駁優先、兩部計程車備援。抵村後依序午餐、導覽、午休、入住、Kids Club 預訪、沙灘暖身、晚餐及視體力參加晚間活動。2027 正式航班、接駁、房況與餐食包含範圍尚未確認。 (首日不排村外付費景點，避免航班、入境、接駁或房間延遲造成損失；每小時分列地點、活動與退場順序。)
+- 2026-09-07T01:54:33.389Z | user | accepted | r2: 使用者明確核准 Day 1 v1-r1 的每小時抵達日安排，包括桃園集合、暫定直飛骨架、入境與行李緩衝、Club Med 接駁優先與兩部計程車備援、入村休息、Kids Club 預訪、沙灘暖身、村內晚餐及視體力參加晚間活動。2027 正式班表、房況、接駁與餐食包含範圍仍須依既有待辦查證；本次核准不授權聯絡、預約或付款。
+- 2026-09-07T07:09:47.514Z | assistant | revision | r3: Day 1 維持親子低壓力抵達日與原核准交通骨架，餐飲改依 Stage 4 v2 每餐雙選：早餐以各家庭出門前可攜餐為主、桃園機場簡餐為備；午餐以 Club Med 主餐廳為主、抵達延誤時改 14:00–15:30 輕食；晚餐以 Club Med 主餐廳早段為主、錯過時改 Tingara 點心或已確認可取得的村內簡餐。同一餐只採一案且不重複計價，抵達日仍不進市區追餐廳。 (把使用者核准的 Stage 4 v2 每餐雙選原則回填 Day 1，同時保留航班延誤、孩子疲累與村內營業限制的可執行退路。)
+- 2026-09-07T07:28:46.328Z | user | accepted | r4: 使用者明確核准 Day 1 v1-r3 餐飲雙選修訂版：早餐採出門前可攜餐／桃園機場簡餐，午餐採 Club Med 主餐廳／延誤時村內輕食，晚餐採 Club Med 主餐廳早段／Tingara 點心或已確認村內簡餐；同一餐只執行並計價一次，原交通、休息與活動骨架不變。本次核准不授權聯絡、預約或付款。
+
+## Current candidate plan
+
+Day 1 維持親子低壓力抵達日與原核准交通骨架，餐飲改依 Stage 4 v2 每餐雙選：早餐以各家庭出門前可攜餐為主、桃園機場簡餐為備；午餐以 Club Med 主餐廳為主、抵達延誤時改 14:00–15:30 輕食；晚餐以 Club Med 主餐廳早段為主、錯過時改 Tingara 點心或已確認可取得的村內簡餐。同一餐只採一案且不重複計價，抵達日仍不進市區追餐廳。
+
+## Schedule and locations
+
+| 時間 | 活動 | 地點 | 交通 | 備註 | 網址與照片 |
+|---|---|---|---|---|---|
+| 05:00–05:30（台灣時間） | 兩家六人集合、早餐確認與分組點名 | [桃園國際機場](https://www.google.com/maps/search/?api=1&query=Taiwan+Taoyuan+International+Airport)<br>航廈待正式航班確認 | 各家庭自行抵達；集合點待航廈確認 | 早餐第一選擇為各家庭出門前準備的可攜餐；尚未吃早餐者，第二選擇為完成報到後在桃園機場購買簡單早餐。同步核對護照姓名、托運件數、兒童隨身包與聯絡方式；不記錄護照號碼。 | [桃園機場官方](https://www.taoyuan-airport.com/) |
+| 05:30–06:15（台灣時間） | 報到、托運、安檢與出境 | [桃園國際機場出境區](https://www.google.com/maps/search/?api=1&query=Taiwan+Taoyuan+International+Airport)<br>航廈待確認 | 步行 | 時間依現行約 06:35 起飛骨架安排；正式航班、航廈與櫃檯尚未公布。 | — |
+| 06:15–06:35（台灣時間） | 登機口集合、飲水與兒童如廁 | [桃園機場登機口](https://www.google.com/maps/search/?api=1&query=Taiwan+Taoyuan+International+Airport)<br>登機口待確認 | 步行 | 六人不分散購物；預留幼童臨時如廁時間。 | — |
+| 06:35–08:35（起訖為當地時間） | 桃園直飛石垣島 | [桃園 → 新石垣](https://www.google.com/maps/dir/?api=1&origin=Taiwan+Taoyuan+International+Airport&destination=Painushima+Ishigaki+Airport)<br>國際航段 | 直飛航班，班號待 2027 夏季班表 | 06:35／08:35 僅為現行相近班次排程基準，不是真實 2027 航班或已購機票。 | [石垣機場航線資訊](https://www.ishigaki-airport.co.jp/tcn/fly/network/index.html) |
+| 08:35–09:30（日本時間） | 入境、領行李、如廁與會合 | [南ぬ島石垣空港（新石垣機場）](https://www.google.com/maps/search/?api=1&query=Painushima+Ishigaki+Airport)<br>日本沖繩縣石垣市白保 | 步行 | 兩家領齊行李後再離開管制區；若接駁有集合牌，先確認姓名拼音與目的地。 | [新石垣機場官方](https://www.ishigaki-airport.co.jp/tcn/) |
+| 09:30–10:20（日本時間） | 前往 Club Med 石垣島 | [新石垣機場 → Club Med 石垣島](https://www.google.com/maps/dir/?api=1&origin=Painushima+Ishigaki+Airport&destination=Club+Med+Kabira+Ishigaki)<br>石垣島北西部川平石崎 | Club Med 六人付費接駁優先；兩部標準計程車備援 | Club Med 稱約 30 分鐘；機場官方標準計程車估約 45 分鐘。車型、六人行李、兒童安排與正式價格仍未確認。 | [機場計程車資訊](https://www.ishigaki-airport.co.jp/tcn/access/bus-taxi/index.html) |
+| 10:30–11:30 | 報到、寄放行李與房型核對 | [Club Med 石垣島接待大廳](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>沖繩縣石垣市川平石崎 1 | 度假村內步行 | 不假設可提早入住；現場只核對既有確認內容。兩間三人房、第三床與正式庫存仍是 Stage 6 阻擋條件。 | [Club Med 石垣島官方頁](https://www.clubmed.com.tw/r/%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%9E%A3%E5%B3%B6/y)<br>![Club Med 石垣島海灣與度假村](https://production.media.dcx.clubmed/?format=webp&height=240&quality=85&url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_363_363178-mmquy7wge1-swhr.jpg&width=380)<br>[照片來源：Club Med 官方](https://www.clubmed.com.tw/r/%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%9E%A3%E5%B3%B6/y) |
+| 11:30–12:30 | 全家午餐（主餐廳／延誤輕食） | [Club Med 主餐廳](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>Club Med 石垣島村內 | 度假村內步行 | 第一選擇為 Club Med 主餐廳現行 11:45–13:45；若航班或接駁延誤錯過，第二選擇改 14:00–15:30 村內輕食。2027 時段與首日包含範圍待確認；不臨時進市區。 | [Club Med 餐廳與吧台官方資料](https://assets.dream.clubmed/pm_7531_704_704461-kxyqwpeu0o.pdf) |
+| 12:30–13:30 | 村內導覽與安全定位 | [Club Med 石垣島村內](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>沖繩縣石垣市川平石崎 1 | 度假村內步行 | 先找餐廳、兒童俱樂部、泳池、醫護／接待處與集合點；不安排正式活動。 | — |
+| 13:30–14:30 | 安靜休息或公共區等待房間 | [Club Med 大廳／休息區](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>Club Med 石垣島村內 | 無 | 4 歲孩子優先午休；若房間未備妥，在遮蔭公共區休息，不拖著行李活動。 | — |
+| 14:30–15:30 | 入住、分房與第三床確認 | [Club Med 兩間客房](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>房號待確認 | 度假村內步行 | 每家一間房；確認實際睡眠配置、行李位置與兒童夜間安全。入住時間以正式確認為準。 | — |
+| 15:30–16:30 | Kids Club 預訪與翌日報到確認 | [Club Med Kids Club](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>Club Med 石垣島村內；確切集合點待當週確認 | 度假村內步行 | 只熟悉動線、集合／接回規則與當週課表；不假設首日能立即參加。4 歲及 8 歲均需依現場分齡。 | [Club Med 石垣島官方頁](https://www.clubmed.com.tw/r/%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%9E%A3%E5%B3%B6/y) |
+| 16:30–17:30 | 沙灘踩水、玩沙與親子散步 | [Club Med 石垣島沙灘](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki+Beach)<br>Club Med 石垣島村內 | 度假村內步行 | 首日只做輕量活動；依風浪、氣溫與救生員指示調整，不安排正式水上課。 | — |
+| 17:30–18:30 | 回房洗澡、更衣與休息 | [Club Med 客房](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>房號待確認 | 度假村內步行 | 補水、整理濕衣，避免孩子在晚餐前過度疲累。 | — |
+| 18:30–19:30 | 六人晚餐（主餐廳／村內簡餐備援） | [Club Med 主餐廳](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>Club Med 石垣島村內 | 度假村內步行 | 第一選擇為 Club Med 主餐廳現行 18:30–20:30 的早段；若抵達延誤、孩子疲累或錯過時段，第二選擇為 Tingara 點心或已確認可取得的村內簡餐。兩個家庭已確認無食物過敏或明確忌口。 | [Club Med 餐廳與吧台官方資料](https://assets.dream.clubmed/pm_7531_704_704461-kxyqwpeu0o.pdf) |
+| 19:30–20:30 | 晚間活動候選或提早回房 | [Club Med 晚間活動區／客房](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>實際場地待當週課表 | 度假村內步行 | 只有當週課表與孩子體力都合適才參加；不把 White Party、表演或主題夜視為固定節目。 | — |
+| 20:30–21:00 | 翌日用品整理、熄燈準備 | [Club Med 客房](https://www.google.com/maps/search/?api=1&query=Club+Med+Kabira+Ishigaki)<br>房號待確認 | 無 | 準備泳衣、防曬與兒童俱樂部用品；第一晚以恢復睡眠為優先。 | — |
+
+## Day links
+
+- [桃園國際機場官方網站](https://www.taoyuan-airport.com/)
+- [新石垣機場官方網站](https://www.ishigaki-airport.co.jp/tcn/)
+- [新石垣機場交通資訊](https://www.ishigaki-airport.co.jp/tcn/access/bus-taxi/index.html)
+- [Club Med 石垣島官方頁](https://www.clubmed.com.tw/r/%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%9E%A3%E5%B3%B6/y)
+
+## Day thumbnail
+
+![Club Med 石垣島海灣與度假村](https://production.media.dcx.clubmed/?format=webp&height=240&quality=85&url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_363_363178-mmquy7wge1-swhr.jpg&width=380)
+
+[照片來源：Club Med 官方](https://www.clubmed.com.tw/r/%E6%97%A5%E6%9C%AC%E7%9F%B3%E5%9E%A3%E5%B3%B6/y)
+
+## Route and buffers
+
+桃園機場集合 → 暫定直飛 → 新石垣機場入境與領行李 55 分鐘 → 接駁／兩部計程車 50 分鐘 → Club Med。航班晚 60 分鐘以內時，取消村內導覽但保留午休；房間未備妥時寄放行李。台灣與日本相差 1 小時，所有抵達後時段採日本時間。
+
+## Meals
+
+每餐雙選且只執行、計價一次。早餐：各家庭出門前可攜餐為第一選擇，完成報到後的桃園機場簡餐為第二選擇。午餐：Club Med 主餐廳 11:45–13:45 為第一選擇；航班或接駁延誤時改 14:00–15:30 村內輕食。晚餐：Club Med 主餐廳早段為第一選擇；錯過時段或孩子疲累時改 Tingara 點心／已確認可取得的村內簡餐。2027 營業與首日包含範圍待確認；抵達日不安排市區餐廳。兩個家庭已確認沒有食物過敏或明確忌口。
+
+## Expected daily spend
+
+0
+
+## Fallbacks
+
+若直飛或抵達時間改變，依序刪除 19:30 晚間活動、16:30 沙灘與 12:30 村內導覽；保留接機、入住、餐食與睡眠。若 Club Med 接駁未確認，使用兩部標準計程車，費用沿用 Stage 3 暫定預算，不另行重複計價。
+
+## Open questions
+
+—
+
+## Actions synchronized on approval
+
+Audit complete for v1-r4 at 2026-09-07T07:10:41.273Z: Day 1 v1-r3 每餐雙選修訂已完成 verification、booking、payment、documents、preparation、deadlines、rechecks、cancellation 八類稽核。本日不新增獨立待辦：2027 航班由 Stage 2 承接；房況與接駁由 Stage 3 承接；Club Med 主餐廳、輕食、Tingara 與首日餐食包含範圍由已核准 Stage 4 v2 的 confirm-dining-plan-and-hours 承接。早餐、午餐與晚餐主備選互斥且不重複計價；未授權聯絡、預約或付款。
+
+—
+
+## User approval
+
+使用者明確核准 Day 1 v1-r3 餐飲雙選修訂版：早餐採出門前可攜餐／桃園機場簡餐，午餐採 Club Med 主餐廳／延誤時村內輕食，晚餐採 Club Med 主餐廳早段／Tingara 點心或已確認村內簡餐；同一餐只執行並計價一次，原交通、休息與活動骨架不變。本次核准不授權聯絡、預約或付款。
